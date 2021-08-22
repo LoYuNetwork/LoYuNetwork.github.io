@@ -19,7 +19,17 @@ export const data = {
     }
   ],
   "filePathRelative": "helper/xineyc/mc服务器状态获取.md",
-  "git": {}
+  "git": {
+    "createdTime": 1629631240000,
+    "updatedTime": 1629631240000,
+    "contributors": [
+      {
+        "name": "TNXG",
+        "email": "mcminecraftmc@126.com",
+        "commits": 1
+      }
+    ]
+  }
 }
 
 if (import.meta.webpackHot) {

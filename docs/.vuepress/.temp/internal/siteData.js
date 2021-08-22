@@ -3,7 +3,15 @@ export const siteData = {
   "lang": "zh-CN",
   "title": "洛圄文档",
   "description": "洛圄网络的文案存档库",
-  "head": [],
+  "head": [
+    [
+      "link",
+      {
+        "rel": "icon",
+        "href": "/assets/images/logo.png"
+      }
+    ]
+  ],
   "locales": {}
 }
 

@@ -1,4 +1,5 @@
 module.exports = {
+  head: ['body', {}, '{font-family: HarmonyOS_Sans;font-family: JetBrainsMono;}'],
   lang: 'zh-CN',
   title: '洛圄文档',
   description: '洛圄网络的文案存档库',
@@ -46,6 +47,7 @@ module.exports = {
           { text: '小文章', link: '/article/' },
           { text: '技术', link: '/skill/' },
           { text: '关于', link: '/about/' },
+          { text: '鸣谢', link: '/thanks/' },
           { text: '友情链接', children: [{ text: "洛圄网络", link:"https://www.loyunet.cn"}, { text: "云游科社", link:"https://www.cwtc.xyz"}]},
         ],
         

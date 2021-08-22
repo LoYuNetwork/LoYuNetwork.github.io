@@ -14,7 +14,17 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "filePathRelative": "helper/readme.md",
-  "git": {}
+  "git": {
+    "createdTime": 1629631240000,
+    "updatedTime": 1629631240000,
+    "contributors": [
+      {
+        "name": "TNXG",
+        "email": "mcminecraftmc@126.com",
+        "commits": 1
+      }
+    ]
+  }
 }
 
 if (import.meta.webpackHot) {

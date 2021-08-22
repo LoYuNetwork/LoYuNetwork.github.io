@@ -41,6 +41,10 @@ export const themeData = {
       "link": "/about/"
     },
     {
+      "text": "鸣谢",
+      "link": "/thanks/"
+    },
+    {
       "text": "友情链接",
       "children": [
         {
