@@ -1,18 +1,24 @@
 export const siteData = {
   "base": "/",
-  "lang": "zh-CN",
-  "title": "洛圄文档",
-  "description": "洛圄网络的文案存档库",
+  "lang": "en-US",
+  "title": "",
+  "description": "",
   "head": [
     [
       "link",
       {
         "rel": "icon",
-        "href": "/assets/images/logo.png"
+        "href": "/assets/images/logo.jpg"
       }
     ]
   ],
-  "locales": {}
+  "locales": {
+    "/": {
+      "lang": "zh-CN",
+      "title": "洛圄文档",
+      "description": "洛圄网络的文档储存库"
+    }
+  }
 }
 
 if (import.meta.webpackHot) {

@@ -9,6 +9,8 @@ export const pagesData = {
   "v-cbe54db0": () => import(/* webpackChunkName: "v-cbe54db0" */"C:/Users/mcmin/Desktop/LoYuNetwork.github.io/docs/.vuepress/.temp/pages/helper/index.html.js").then(({ data }) => data),
   // path: /skill/
   "v-d820d792": () => import(/* webpackChunkName: "v-d820d792" */"C:/Users/mcmin/Desktop/LoYuNetwork.github.io/docs/.vuepress/.temp/pages/skill/index.html.js").then(({ data }) => data),
+  // path: /thanks/
+  "v-195ad56d": () => import(/* webpackChunkName: "v-195ad56d" */"C:/Users/mcmin/Desktop/LoYuNetwork.github.io/docs/.vuepress/.temp/pages/thanks/index.html.js").then(({ data }) => data),
   // path: /helper/xineyc/mc%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8A%B6%E6%80%81%E8%8E%B7%E5%8F%96.html
   "v-73105ae3": () => import(/* webpackChunkName: "v-73105ae3" */"C:/Users/mcmin/Desktop/LoYuNetwork.github.io/docs/.vuepress/.temp/pages/helper/xineyc/mc服务器状态获取.html.js").then(({ data }) => data),
   // path: /helper/xineyc/

@@ -6,6 +6,7 @@ const routeItems = [
   ["v-e52c881c","/article/","",["/article/index.html","/article/readme.md"]],
   ["v-cbe54db0","/helper/","",["/helper/index.html","/helper/readme.md"]],
   ["v-d820d792","/skill/","",["/skill/index.html","/skill/readme.md"]],
+  ["v-195ad56d","/thanks/","",["/thanks/index.html","/thanks/readme.md"]],
   ["v-73105ae3","/helper/xineyc/mc%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8A%B6%E6%80%81%E8%8E%B7%E5%8F%96.html","mc服务器状态获取",["/helper/xineyc/mc服务器状态获取.html","/helper/xineyc/mc%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8A%B6%E6%80%81%E8%8E%B7%E5%8F%96","/helper/xineyc/mc服务器状态获取.md","/helper/xineyc/mc%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8A%B6%E6%80%81%E8%8E%B7%E5%8F%96.md"]],
   ["v-7671fed5","/helper/xineyc/","首页",["/helper/xineyc/index.html","/helper/xineyc/readme.md"]],
   ["v-c3d0f5e4","/helper/xineyc/%E4%B8%80%E8%A8%80x%E6%8A%A5%E6%97%B6.html","一言x报时",["/helper/xineyc/一言x报时.html","/helper/xineyc/%E4%B8%80%E8%A8%80x%E6%8A%A5%E6%97%B6","/helper/xineyc/一言x报时.md","/helper/xineyc/%E4%B8%80%E8%A8%80x%E6%8A%A5%E6%97%B6.md"]],

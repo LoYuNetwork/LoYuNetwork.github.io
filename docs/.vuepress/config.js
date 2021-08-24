@@ -1,8 +1,18 @@
 module.exports = {
-  head: ['body', {}, '{font-family: HarmonyOS_Sans;font-family: JetBrainsMono;}'],
-  lang: 'zh-CN',
-  title: '洛圄文档',
-  description: '洛圄网络的文案存档库',
+  locales: {
+    "/": {
+      lang: "zh-CN",
+      title: "洛圄文档",
+      description: "洛圄网络的文档储存库",
+    },
+  },
+  head: [
+    ["link", { 
+      rel: "icon", 
+      href: "/assets/images/logo.jpg" 
+    }
+  ]
+],
   plugins: [
     '@vuepress/back-to-top',
     '@vuepress/plugin-prismjs',{

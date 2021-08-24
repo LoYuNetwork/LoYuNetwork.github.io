@@ -11,6 +11,8 @@ export const pagesComponents = {
   "v-cbe54db0": defineAsyncComponent(() => import(/* webpackChunkName: "v-cbe54db0" */"C:/Users/mcmin/Desktop/LoYuNetwork.github.io/docs/.vuepress/.temp/pages/helper/index.html.vue")),
   // path: /skill/
   "v-d820d792": defineAsyncComponent(() => import(/* webpackChunkName: "v-d820d792" */"C:/Users/mcmin/Desktop/LoYuNetwork.github.io/docs/.vuepress/.temp/pages/skill/index.html.vue")),
+  // path: /thanks/
+  "v-195ad56d": defineAsyncComponent(() => import(/* webpackChunkName: "v-195ad56d" */"C:/Users/mcmin/Desktop/LoYuNetwork.github.io/docs/.vuepress/.temp/pages/thanks/index.html.vue")),
   // path: /helper/xineyc/mc%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8A%B6%E6%80%81%E8%8E%B7%E5%8F%96.html
   "v-73105ae3": defineAsyncComponent(() => import(/* webpackChunkName: "v-73105ae3" */"C:/Users/mcmin/Desktop/LoYuNetwork.github.io/docs/.vuepress/.temp/pages/helper/xineyc/mc服务器状态获取.html.vue")),
   // path: /helper/xineyc/
