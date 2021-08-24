@@ -13,6 +13,6 @@ features:
     details: 会记录一些我在搭建网站、写程序时的所见所闻
   - title: 教程
     details: 记录一些小玩意的使用教程
-footer: © 2019-2021 by LoYuNetwork . All rights reserved.
+footerHtml: true
+footer: <p>© 2019-2021 by <a href="http://www.loyunet.cn/">LoYuNetwork</a> . All rights reserved.<br><a href="https://icp.gov.moe/?keyword=20210412" target="_blank">萌ICP备20210412号</a></p>
 ---
-<span title="你知道的太多了" class="heimu">wdnmd</span>

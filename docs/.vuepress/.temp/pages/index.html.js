@@ -25,19 +25,20 @@ export const data = {
         "details": "记录一些小玩意的使用教程"
       }
     ],
-    "footer": "© 2019-2021 by LoYuNetwork . All rights reserved."
+    "footerHtml": true,
+    "footer": "<p>© 2019-2021 by <a href=\"http://www.loyunet.cn/\">LoYuNetwork</a> . All rights reserved.<br><a href=\"https://icp.gov.moe/?keyword=20210412\" target=\"_blank\">萌ICP备20210412号</a></p>"
   },
   "excerpt": "",
   "headers": [],
   "filePathRelative": "readme.md",
   "git": {
     "createdTime": 1629631240000,
-    "updatedTime": 1629631240000,
+    "updatedTime": 1629791641000,
     "contributors": [
       {
         "name": "TNXG",
         "email": "mcminecraftmc@126.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   }

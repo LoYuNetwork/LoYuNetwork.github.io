@@ -1,4 +1,6 @@
 module.exports = {
+  footer: '<p>© 2019-2021 by <a href="http://www.loyunet.cn/">LoYuNetwork</a> . All rights reserved.<br><a href="https://icp.gov.moe/?keyword=20210412" target="_blank">萌ICP备20210412号</a></p>',
+  footerHtml: true,
   locales: {
     "/": {
       lang: "zh-CN",

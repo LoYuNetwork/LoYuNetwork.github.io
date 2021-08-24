@@ -2,7 +2,8 @@
 home: true
 navbar: boolean
 heroText: 鸣谢
-footer:  2019-2021 by LoYuNetwork . All rights reserved.
+footerHtml: true
+footer: <p>© 2019-2021 by <a href="http://www.loyunet.cn/">LoYuNetwork</a> . All rights reserved.<br><a href="https://icp.gov.moe/?keyword=20210412" target="_blank">萌ICP备20210412号</a></p>
 ---
 <p align="center"><a href="https://v2.vuepress.vuejs.org/zh/">VuePress </a>- 本网站主题框架</p>
 <p align="center"><a href="https://www.jsdelivr.com/">Jsdelivr </a>- 静态资源 CDN</p>
