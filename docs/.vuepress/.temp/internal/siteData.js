@@ -10,6 +10,12 @@ export const siteData = {
         "rel": "icon",
         "href": "/assets/images/logo.jpg"
       }
+    ],
+    [
+      "div",
+      {
+        "class": "bg"
+      }
     ]
   ],
   "locales": {

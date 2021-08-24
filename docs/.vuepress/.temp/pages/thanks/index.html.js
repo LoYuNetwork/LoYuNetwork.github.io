@@ -13,9 +13,15 @@ export const data = {
   "headers": [],
   "filePathRelative": "thanks/readme.md",
   "git": {
-    "createdTime": null,
-    "updatedTime": null,
-    "contributors": []
+    "createdTime": 1629783434000,
+    "updatedTime": 1629783434000,
+    "contributors": [
+      {
+        "name": "TNXG",
+        "email": "mcminecraftmc@126.com",
+        "commits": 1
+      }
+    ]
   }
 }
 

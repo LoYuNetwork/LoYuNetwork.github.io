@@ -11,7 +11,11 @@ module.exports = {
       rel: "icon", 
       href: "/assets/images/logo.jpg" 
     }
-  ]
+  ],
+  ["div",{
+    class: "bg",
+  }
+],
 ],
   plugins: [
     '@vuepress/back-to-top',
@@ -49,8 +53,6 @@ module.exports = {
         lastUpdated: true,
         lastUpdatedText: '最后更新于',
         sidebarDepth: 1,
-
-        // 页面上方菜单栏
         navbar: [
           { text: '首页', link: '/' },
           { text: '教程', link: '/helper/' },
@@ -60,7 +62,6 @@ module.exports = {
           { text: '鸣谢', link: '/thanks/' },
           { text: '友情链接', children: [{ text: "洛圄网络", link:"https://www.loyunet.cn"}, { text: "云游科社", link:"https://www.cwtc.xyz"}]},
         ],
-        
     sidebar: {
       '/helper/xineyc/': [
         {

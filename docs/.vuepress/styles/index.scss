@@ -31,6 +31,8 @@ a:active
 .heimu {
     color: #BA0000 !important;
 }
+
+/* 字体 */
 @font-face {
     font-family: HarmonyOS_Sans;
     src: url("https://cdn.jsdelivr.net/gh/TNXG/data@main/HarmonyOS_Sans.ttf");
@@ -38,4 +40,22 @@ a:active
 @font-face {
     font-family: JetBrainsMono;
     src: url("https://cdn.jsdelivr.net/gh/TNXG/data@main/JetBrainsMono-Regular.woff2");
+}
+body {
+    font-family: HarmonyOS_Sans;
+    font-family: JetBrainsMono;
+}
+
+/* 背景 */
+.bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url("http://arknights.asia/api/img/arknights_wallpaper/api.php");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
