@@ -1,6 +1,4 @@
 module.exports = {
-  footer: '<p>© 2019-2021 by <a href="http://www.loyunet.cn/">LoYuNetwork</a> . All rights reserved.<br><a href="https://icp.gov.moe/?keyword=20210412" target="_blank">萌ICP备20210412号</a></p>',
-  footerHtml: true,
   locales: {
     "/": {
       lang: "zh-CN",
@@ -14,10 +12,6 @@ module.exports = {
       href: "/assets/images/logo.jpg" 
     }
   ],
-  ["div",{
-    class: "bg",
-  }
-],
 ],
   plugins: [
     '@vuepress/back-to-top',
@@ -79,12 +73,6 @@ module.exports = {
              { text: '点歌', link: '/helper/xineyc/点歌.md'},
              { text: '尾页', link: '/helper/xineyc/尾页.md' },
             ],
-        },
-      ],
-      '/reference/': [
-        {
-          text: 'Reference',
-          children: ['/reference/cli.md', '/reference/config.md'],
         },
       ],
     },
