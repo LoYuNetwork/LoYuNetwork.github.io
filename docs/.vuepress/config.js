@@ -2,8 +2,8 @@ module.exports = {
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "洛圄文档",
-      description: "洛圄网络的文档储存库",
+      title: "洛圄网络",
+      description: "洛圄网络的综合性网站",
     },
   },
   head: [
@@ -43,7 +43,7 @@ module.exports = {
         toggleDarkMode: '切换到夜间模式',
         toggleSidebar: '切换侧边栏',
         editLink: true,
-        editLinkText: '编辑这个页面',
+//      editLinkText: '编辑这个页面',
         logo: './assets/images/logo.jpg',
         base: "./",
         lastUpdated: true,
