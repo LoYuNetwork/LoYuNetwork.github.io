@@ -1,7 +1,7 @@
 ---
 home: true
 navbar: boolean
-heroText: 洛 圄 文 档
+heroText: 洛 圄 网 络
 tagline: 我不曾怀揣希望，我不会全部遗忘。我不知是否值得，我所思不知于此。我无惧前路何往，我与最后的赌注。
 actionText: 开始阅读 →
 actionLink: /docs/
