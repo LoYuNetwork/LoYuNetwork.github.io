@@ -42,6 +42,7 @@ module.exports = {
         docsBranch: 'master',
         toggleDarkMode: '切换到夜间模式',
         toggleSidebar: '切换侧边栏',
+        editLinkText: '编辑此页',
         editLink: true,
 //      editLinkText: '编辑这个页面',
         logo: './assets/images/logo.jpg',
