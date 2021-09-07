@@ -1,7 +1,6 @@
 ---
 home: true
 navbar: boolean
-heroImage: /assets/images/logo.jpg
 heroText: 帮助文档
 tagline: 你或许需要我们的帮助？
 footerHtml: true

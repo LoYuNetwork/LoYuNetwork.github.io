@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^2.0.0-beta.24",
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.25",
     "@vuepress/plugin-last-updated": "^1.8.2",
     "@vuepress/plugin-search": "^1.8.2",
     "@vuepress/shared-utils": "^1.8.2",
