@@ -14,11 +14,6 @@ module.exports = {
   ],
 ],
   plugins: [
-    'vuepress-plugin-clean-urls',{
-      normalSuffix: '',
-      indexSuffix: '',
-      notFoundPath: '404.html',
-    },
     'graysite',{
       startDate: '2021-09-18 00:00:00',
       endDate: '2021-09-18 23:59:59',

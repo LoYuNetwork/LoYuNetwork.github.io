@@ -35,8 +35,6 @@ jobs:
             ${{ runner.os }}-yarn-
               
       # 安装插件依赖
-      - name: Install plugin dependencies_vuepress-plugin-clean-urls
-        run: npm install -D vuepress-plugin-clean-urls
       - name: Install plugin dependencies_vuepress-plugin-graysite
         run: npm install -D vuepress-plugin-graysite
 
