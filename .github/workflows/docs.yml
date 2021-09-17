@@ -33,7 +33,12 @@ jobs:
           key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
             ${{ runner.os }}-yarn-
-
+              
+      # 安装插件依赖
+      - name: Install plugin dependencies
+        run: npm install -D vuepress-plugin-clean-urls
+        run: npm install -D vuepress-plugin-graysite
+        
       # 如果缓存没有命中，安装依赖
       - name: Install dependencies
         if: steps.yarn-cache.outputs.cache-hit != 'true'
