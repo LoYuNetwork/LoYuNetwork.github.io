@@ -14,10 +14,6 @@ module.exports = {
   ],
 ],
   plugins: [
-    'graysite',{
-      startDate: '2021-09-18 00:00:00',
-      endDate: '2021-09-18 23:59:59',
-      },
     '@vuepress/back-to-top',
     '@vuepress/plugin-prismjs',{
       preloadLanguages: ['markdown', 'jsdoc', 'yaml','html','javascript', 'css','php'],
