@@ -14,15 +14,6 @@ module.exports = {
   ],
 ],
   plugins: [
-    '@vssue/vuepress-plugin-vssue',{
-      platform: 'github-v4',
-      locale: 'zh',
-      owner: 'TNXG',
-      repo: 'vssus_dase',
-      clientId: 'b065ffdcd61bc9a84bc0',
-      clientSecret: '84b1b290c14a63704d48bfe165b69182920513af',
-      autoCreateIssue: true,
-    },
     '@vuepress/back-to-top',
     '@vuepress/plugin-prismjs',{
       preloadLanguages: ['markdown', 'jsdoc', 'yaml','html','javascript', 'css','php'],
