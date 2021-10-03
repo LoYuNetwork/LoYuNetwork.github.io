@@ -41,19 +41,26 @@ a:active
 body {
     font-family: HarmonyOS_Sans;
 }
+
 .CtrlAstr {
+    @font-face {
     font-family: CtrlAstr;
     src: url("https://cdn.jsdelivr.net/gh/TNXG/resource@master/typeface/CtrlAstr.ttf");
+    }
 }
 
 .JetBrainsMono {
+    @font-face {
     font-family: JetBrainsMono;
     src: url("https://cdn.jsdelivr.net/gh/TNXG/resource@master/typeface/JetBrainsMono.ttf");
+    }
 }
 
 .ysbth {
+    @font-face {
     font-family: ysbth;
     src: url("https://cdn.jsdelivr.net/gh/TNXG/resource@master/typeface/ysbth.ttf");
+    }
 }
 
 /* 背景 */
