@@ -228,6 +228,6 @@
 
 “越向热焰中去，越奋不顾身。历史未必记谁姓名，亦无需过问。越迎冷风而行，越不畏夜深。血脉涌动不息坚贞，凝练这颗魂。”
 
-<div class="ysbth">“我相信你”</div>
+<div class="ysbth" style="font-size:25px;">“我相信你”</div>
 
 <p align="right">Dr.斯塔岑科、Dr.月霜夕、共同书写</p>
